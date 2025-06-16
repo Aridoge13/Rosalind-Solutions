@@ -51,7 +51,7 @@ Directory example:
 ## Setup
 Clone the repository: 
 ```bash
-git clone [URL]
+git clone https://github.com/Aridoge13/Rosalind-Solutions.git
 cd Rosalind
 ```
 
