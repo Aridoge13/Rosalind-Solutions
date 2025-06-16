@@ -28,13 +28,13 @@ Each script corresponds to a specific Rosalind problem and includes:
 
 Directory example:
 
-...
+```java
 📂 Rosalind/src/Bioinformatics_Stronghold
 ├── Counting_Nucleotides.py         ← DNA string counting (rosalind/DNA)
 ├── Transcription.py         ← Transcription (rosalind/RNA)
 ├── Rabbits_Recurrence.py         ← Rabbit population recurrence (rosalind/FIB)
 ├── Complementing_DNA.py        ← Reverse complement (rosalind/REVC)
-...
+```
 
 ---
 
