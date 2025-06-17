@@ -6,7 +6,7 @@
 
 
 ## 📘 What is Rosalind? 
-[Rosalind] (https://rosalind.info/) is a platform for learning bioinformatics through hands-on problem solving. It presents a series of biologically motivated computational challenges, spanning topics such as:
+[Rosalind](https://rosalind.info/) is a platform for learning bioinformatics through hands-on problem solving. It presents a series of biologically motivated computational challenges, spanning topics such as:
 
 - DNA/RNA string manipulation
 - Sequence alignment
@@ -21,12 +21,12 @@ This repository contains Python-based solutions to a growing set of problems on 
 ## 📦 Repository Structure
 Each script corresponds to a specific Rosalind problem and includes:
 
-- ✅ Clear function-based logic
-- ✅ In-line problem link
-- ✅ Input/output formatting per Rosalind spec
-- ✅ Optional comments for algorithm intuition
+- Clear function-based logic
+- In-line problem link
+- Input/output formatting per Rosalind spec
+- Optional comments for algorithm intuition
 
-Directory example:
+## Directory example:
 
 ```java
 📂 Rosalind/src/Bioinformatics_Stronghold
