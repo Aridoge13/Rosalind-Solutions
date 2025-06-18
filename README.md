@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
 ![GitHub issues](https://img.shields.io/github/issues/Aridoge13/Computational_Biology)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Aridoge13/Computational_Biology)
-
+![Solved Problems](./badge.svg)
 
 ## 📘 What is Rosalind? 
 [Rosalind](https://rosalind.info/) is a platform for learning bioinformatics through hands-on problem solving. It presents a series of biologically motivated computational challenges, spanning topics such as:
@@ -16,6 +16,14 @@
 - Probability, combinatorics, and dynamic programming in genomics
 
 This repository contains Python-based solutions to a growing set of problems on Rosalind, written for clarity, performance, and educational value.
+
+---
+
+## 🧮 Progress
+
+- 🎯 Problems Solved: ![Solved Problems](./badge.svg)
+- 🏆 Current Badge: Trilobite (32 problems)
+- 📈 Target Badge: Amphibian (64 problems)
 
 ---
 ## 📦 Repository Structure
@@ -73,5 +81,5 @@ Distributed under the [MIT License](License.md).
 
 ## Contact
 Email: aritra.mukherjee98@gmail.com
-Linkedin: [Aritra_Mukherjee](www.linkedin.com/in/aritra-mukherjee-82b070125)
+Linkedin: [Aritra_Mukherjee](https://www.linkedin.com/in/aritra-mukherjee-82b070125)
 ORCID:[Aritra_Mukherjee](https://orcid.org/0000-0002-6061-611X)
