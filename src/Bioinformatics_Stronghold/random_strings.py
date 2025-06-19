@@ -55,8 +55,10 @@ def read_fasta(file_path: str) -> str:
 
 
 if __name__ == "__main__":
-    import sys
-    lines = sys.stdin.read().strip().splitlines()
+    input_file = input("Enter the path to the input file: ").strip()
+    # Read input from file
+    with open(input_file, 'r') as f:
+        lines = f.read().strip().splitlines()
     # Read DNA string from FASTA
     s = ''.join(line.strip() for line in lines if not line.startswith(
         '>') and set(line.strip()) <= set('ACGT'))

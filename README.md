@@ -21,7 +21,7 @@ This repository contains Python-based solutions to a growing set of problems on 
 
 ## 🧮 Progress
 
-- 🎯 Problems Solved: 32
+- 🎯 Problems Solved: 40
 - 🏆 Current Badge: Trilobite (32 problems)
 - 📈 Target Badge: Amphibian (64 problems)
 
