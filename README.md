@@ -1,8 +1,8 @@
 # Solutions to Problems on Rosalind
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![GitHub issues](https://img.shields.io/github/issues/Aridoge13/Rosalind-Problems)
-![GitHub last commit](https://img.shields.io/github/last-commit/Aridoge13/Rosalind-Problems)
+![GitHub issues](https://img.shields.io/github/issues/Aridoge13/Rosalind-Solutions)
+![GitHub last commit](https://img.shields.io/github/last-commit/Aridoge13/Rosalind-Solutions)
 
 
 ## 📘 What is Rosalind? 
