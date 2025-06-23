@@ -6,16 +6,37 @@
 
 
 ## 📘 What is Rosalind? 
-[Rosalind](https://rosalind.info/) is a platform for learning bioinformatics through hands-on problem solving. It presents a series of biologically motivated computational challenges, spanning topics such as:
+[Rosalind](https://rosalind.info/) is a platform for mastering algorithmic bioinformatics through problem-solving. It spans fundamental topics in computational biology, including:
 
-- DNA/RNA string manipulation
-- Sequence alignment
-- Genetic code translation
-- Population genetics
-- Phylogenetic tree construction
-- Probability, combinatorics, and dynamic programming in genomics
+- DNA/RNA string parsing and manipulation
+- Alignment algorithms and edit distance
+- Population modeling and dynamic recurrence
+- Probability models (Hardy-Weinberg, Mendelian inheritance)
+- Tree reconstruction and graph-based genomics
 
-This repository contains Python-based solutions to a growing set of problems on Rosalind, written for clarity, performance, and educational value.
+This repository currently contains 48 Python-based solutions, emphasizing clarity, modular logic, and algorithmic design especially in contexts relevant to genomics and systems biology.
+
+---
+
+## 🧠 Why It Matters
+These problems reinforce low-level computational logic behind RNA-seq alignment, mutation detection, and phylogenetic inference. They complement my practical omics work by deepening my ability to:
+- Design custom sequence algorithms
+- Translate biological rules into recursive or probabilistic models
+- Optimize data structures for performance-critical tasks
+
+This blend of first-principles problem solving and pipeline-level implementation makes me better equipped to develop efficient, interpretable omics workflows — especially in high-throughput, splicing-heavy datasets like those used in transcriptional biology.
+
+---
+
+## Problem Categories
+
+| Category | Example Problems |
+|----------|------------------|
+| String algorithms |	Hamming distance, reverse complement, substring indexing |
+| Graph theory |	Adjacency graphs, overlap graphs, minimal trees | 
+| Dynamic programming |	Longest common subsequence, recurrence modeling |
+| Probability |	Mendelian inheritance, Hardy-Weinberg, conditional likelihood |
+| Combinatorics |	Permutations, motif enumeration, subset generation |
 
 ---
 
@@ -62,15 +83,6 @@ Clone the repository:
 git clone https://github.com/Aridoge13/Rosalind-Solutions.git
 cd Rosalind
 ```
-
----
-
-## Why This Repo Exists
-This collection reflects my personal journey in mastering bioinformatics fundamentals. It complements my work in applied genomics and machine learning by grounding advanced topics in first principles. I hope it can serve as:
-
-- A reference for other learners
-- A codebase for interview prep
-- A foundation for building intuition in computational biology
 
 ---
 
